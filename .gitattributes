@@ -3,3 +3,4 @@
 *.less linguist-vendored
 *.scss linguist-vendored
 *.ejs javascript
+*.ejs linguist-vendored
